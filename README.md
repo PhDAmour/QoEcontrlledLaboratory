@@ -86,11 +86,7 @@ Paris Est Créteil University -France-.
 	class 4 (MOS = 4): 132
 	class 5 (MOS = 5): 89
 
-6. Number of Attributes 
-	
-	18
-
-7. For Each Attribute:
+6. For Each Attribute:
 
 	All attributes are digit except, video content type (V-content)  user gender (QoU_sex) and 
 	device screen size (QoD_screen_size)
@@ -113,8 +109,5 @@ Paris Est Créteil University -France-.
 		   2 -> Poor
 		   1 -> Bad
 	
-	
-8. Missing Attribute Values:
 
-	None
 
