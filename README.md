@@ -1,8 +1,10 @@
 
 
-1. Title of Database:  QoE controlled laboratory dataset (QoEcontrolledLab).
-	Updated December 16, 2017 by L.Amour, S. Souihi and A. Mellouk : 
-	Paris Est Créteil University -France-.
+1. Title of Database:  
+QoE controlled laboratory dataset (QoEcontrolledLab).
+
+Updated December 16, 2017 by L.Amour, S. Souihi and A. Mellouk:
+Paris Est Créteil University -France-.
 
 2. Sources:
    (a)  Lamine Amour, Sami Souihi, Said Hoceini, Abdelhamid Mellouk:
@@ -35,15 +37,15 @@
       for some reason 19 variables are presented. 
       
    -- The attributes are (dontated by Lamine Amour, lamine.amour@u-pec)
-     01)  id_video	
-     02)  content	
-     03)  norm_bitrate	
-     04)  complexity	
-     05)  complexity_class	
-     06)  resolution	
-     07)  caching	
-     08)  bitrate_video	
-     09)  framerate_video	
+     1)  id_video	
+     2)  content	
+     3)  norm_bitrate	
+     4)  complexity	
+     5)  complexity_class	
+     6)  resolution	
+     7)  caching	
+     8)  bitrate_video	
+     9)  framerate_video	
      10)  dropped_video	
      11)  bitrate_audio	
      12)  dropped_audio
@@ -55,11 +57,11 @@
      18)  mos
 
 	
-	-- Each variable belongs to a category of factros as bellow:
-	      - Video content analysis results (2 to 6)
-	      - VLC player indicators (QoA) (7 to 13)
-		  - Device characteristics  (QoD)(14)
-		  - User's profil (QoU) (15 to 17)	
+    -- Each variable belongs to a category of factros as bellow:
+	  - Video content analysis results (2 to 6)
+	  - VLC player indicators (QoA) (7 to 13)
+	  - Device characteristics  (QoD)(14)
+	  - User's profil (QoU) (15 to 17)	
           - User's 	MOS scoe(18)		  
              
 5. Number of Instances : 
