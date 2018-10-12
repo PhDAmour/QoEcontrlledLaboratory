@@ -37,40 +37,61 @@ Paris Est Créteil University -France-.
       for some reason 19 variables are presented. 
       
    -- The attributes are (dontated by Lamine Amour, lamine.amour@u-pec)
-     (1)  id_video	
-     (2)  content	
+     (1)  id_video
+     
+     (2)  content
+     
      (3)  norm_bitrate	
+     
      4/  complexity	
+     
      5/  complexity_class	
+     
      6)  resolution	
+     
      7)  caching	
+     
      8)  bitrate_video	
-     9)  framerate_video	
+     
+     9)  framerate_video
+     
      10)  dropped_video	
+     
      11)  bitrate_audio	
+     
      12)  dropped_audio
+     
      13)  begin_time	
+     
      14)  screen_size	
+     
      15)  id_user	
+     
      16)  age_user	
+     
      17)  sex_user	
+     
      18)  mos
 
 	
     -- Each variable belongs to a category of factros as bellow:
+    
 	  - Video content analysis results (2 to 6)
+	  
 	  - VLC player indicators (QoA) (7 to 13)
+	  
 	  - Device characteristics  (QoD)(14)
+	  
 	  - User's profil (QoU) (15 to 17)	
+	  
           - User's 	MOS scoe(18)		  
              
 5. Number of Instances : 
-
-      	class 1 (MOS = 1): 138  
-		class 2 (MOS = 2): 100
-		class 3 (MOS = 3): 103
-		class 4 (MOS = 4): 132
-		class 5 (MOS = 5): 89
+        class 1 (MOS = 1): 138  
+	class 2 (MOS = 2): 100
+	class 3 (MOS = 3): 103
+	class 4 (MOS = 4): 132
+	class 5 (MOS = 5): 89
 
 6. Number of Attributes 
 	
