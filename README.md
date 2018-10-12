@@ -72,13 +72,12 @@ Paris Est Créteil University -France-.
      (18)  mos
 
 	
-    -- Each variable belongs to a category of factros as bellow:
-    
-	  - Video content analysis results (2 to 6)
-	   - VLC player indicators (QoA) (7 to 13)
-	   - Device characteristics  (QoD)(14)
-	  - User's profil (QoU) (15 to 17)
-           - User's 	MOS scoe(18)		  
+    -- Each variable belongs to a category of factros as bellow:    
+      - Video content analysis results (2 to 6)
+      - VLC player indicators (QoA) (7 to 13)
+      - Device characteristics  (QoD)(14)
+      - User's profil (QoU) (15 to 17) 
+      - User's MOS scoe(18)		  
              
 5. Number of Instances : 
         class 1 (MOS = 1): 138  
