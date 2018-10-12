@@ -88,23 +88,11 @@ Paris Est Créteil University -France-.
 
 6. For Each Attribute:
 
-	All attributes are digit except, video content type (V-content)  user gender (QoU_sex) and 
-	device screen size (QoD_screen_size)
-	
-	No statistics available, but suggest to standardise
-	variables for certain uses. 
+	All attributes are digit except, video content type ("content")  user gender ("sex_user") and 
+	device screen size ("screen_size")
 
 	NOTES: 
-      
-	  - 14st (sex_user) User's gender.
-	  
-		   0 -> Woman
-		   
-		   1 -> man
-		  
-		  
-	  
-	  - 18st (MOS) Mean Opinion Scroe that a tester will give at the end of each video view.
+         - 18st (MOS) Mean Opinion Scroe that a tester will give at the end of each video view.
 	  
 		   5 -> Excellent
 		   
