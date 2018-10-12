@@ -37,11 +37,11 @@ Paris Est Créteil University -France-.
       for some reason 19 variables are presented. 
       
    -- The attributes are (dontated by Lamine Amour, lamine.amour@u-pec)
-     1)  id_video	
-     2)  content	
-     3)  norm_bitrate	
-     4)  complexity	
-     5)  complexity_class	
+     1/  id_video	
+     2/  content	
+     3/  norm_bitrate	
+     4/  complexity	
+     5/  complexity_class	
      6)  resolution	
      7)  caching	
      8)  bitrate_video	
