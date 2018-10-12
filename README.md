@@ -81,7 +81,7 @@ Paris Est Créteil University -France-.
              
 5. Number of Instances : 
 
-         class 1 (MOS = 1): 138 
+        class 1 (MOS = 1): 138 
 	    class 2 (MOS = 2): 100
 	    class 3 (MOS = 3): 103 
 		class 4 (MOS = 4): 132
