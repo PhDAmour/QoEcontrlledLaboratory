@@ -34,44 +34,45 @@ Paris Est Créteil University -France-.
 	   level. 62 testers particpated to build this dataset.   
 
    -- Initial data set had around 30 variables, but 
-      for some reason 19 variables are presented. 
+      for some reason 18 variables are presented. 
       
    -- The attributes are (dontated by Lamine Amour, lamine.amour@u-pec)
+   
      (1)  id_video
      
      (2)  content
      
      (3)  norm_bitrate	
      
-     4/  complexity	
+     (4)  complexity	
      
-     5/  complexity_class	
+     (5)  complexity_class	
      
-     6)  resolution	
+     (6)  resolution	
      
-     7)  caching	
+     (7)  caching	
      
-     8)  bitrate_video	
+     (8)  bitrate_video	
      
-     9)  framerate_video
+     (9)  framerate_video
      
-     10)  dropped_video	
+     (10)  dropped_video	
      
-     11)  bitrate_audio	
+     (11)  bitrate_audio	
      
-     12)  dropped_audio
+     (12)  dropped_audio
      
-     13)  begin_time	
+     (13)  begin_time	
      
-     14)  screen_size	
+     (14)  screen_size	
      
-     15)  id_user	
+     (15)  id_user	
      
-     16)  age_user	
+     (16)  age_user	
      
-     17)  sex_user	
+     (17)  sex_user	
      
-     18)  mos
+     (18)  mos
 
 	
     -- Each variable belongs to a category of factros as bellow:
