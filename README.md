@@ -32,9 +32,6 @@ Paris Est Créteil University -France-.
    -- These data are the results of a controlled laboratory testbed, where the 
        Absolute Category Rate (ACR) method is used with Mean Opinion Score (MOS) ratting 
 	   level. 62 testers particpated to build this dataset.   
-
-   -- Initial data set had around 30 variables, but 
-      for some reason 18 variables are presented. 
       
    -- The attributes are (dontated by Lamine Amour, lamine.amour@u-pec)
    
@@ -78,14 +75,10 @@ Paris Est Créteil University -France-.
     -- Each variable belongs to a category of factros as bellow:
     
 	  - Video content analysis results (2 to 6)
-	  
-	  - VLC player indicators (QoA) (7 to 13)
-	  
-	  - Device characteristics  (QoD)(14)
-	  
-	  - User's profil (QoU) (15 to 17)	
-	  
-          - User's 	MOS scoe(18)		  
+	   - VLC player indicators (QoA) (7 to 13)
+	   - Device characteristics  (QoD)(14)
+	  - User's profil (QoU) (15 to 17)
+           - User's 	MOS scoe(18)		  
              
 5. Number of Instances : 
         class 1 (MOS = 1): 138  
