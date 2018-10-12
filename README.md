@@ -97,16 +97,23 @@ Paris Est Créteil University -France-.
 	NOTES: 
       
 	  - 14st (sex_user) User's gender.
+	  
 		   0 -> Woman
+		   
 		   1 -> man
 		  
 		  
 	  
 	  - 18st (MOS) Mean Opinion Scroe that a tester will give at the end of each video view.
+	  
 		   5 -> Excellent
+		   
 		   4 -> Good
+		   
 		   3 -> Fair
+		   
 		   2 -> Poor
+		   
 		   1 -> Bad
 	
 
