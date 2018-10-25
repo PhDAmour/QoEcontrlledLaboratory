@@ -1,23 +1,30 @@
 
 
 1. Title of Database:  
+
 QoE controlled laboratory dataset (QoEcontrolledLab).
 
 Updated December 16, 2017 by L.Amour, S. Souihi and A. Mellouk:
+
 Paris Est Créteil University -France-.
 
 2. Sources:
    (a)  Lamine Amour, Sami Souihi, Said Hoceini, Abdelhamid Mellouk:
+   
           An Open Source Platform for Perceived Video Quality Evaluation. Q2SWinet@MSWiM: 
+	  
 		  pages 139-140. . November 2015. 
 		
   (b)	Lamine Amour, Sami Souihi, Said Hoceini, Abdelhamid Mellouk:
+  
           A Hierarchical Classification Model of QoE Influence Factors. WWIC 2015: 
+	  
 		  pages 225-238, May 2015.
 		
 
-   (b) Lamine Amour, email: lamine.amour@u-pec.fr
-   (c) January 2018
+   (c) Lamine Amour, email: lamine.amour@u-pec.fr
+   
+   (d) January 2018
    
    
 3. Past Usage:
